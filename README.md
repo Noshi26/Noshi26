@@ -1,11 +1,11 @@
--# Hi there, I'm Noshi26! 👋
+Hi there, I'm Noshi26! 👋
 
 Welcome to my GitHub profile!  
 I'm a **student** passionate about building beautiful and functional apps, always learning and exploring new technologies.
 
 ---
 
-## 🚀 Skills & Tools
+🚀 Skills & Tools
 
 - **Flutter** (app development is my jam!)
 - **Figma** (designing pixel-perfect UI/UX)
@@ -13,23 +13,21 @@ I'm a **student** passionate about building beautiful and functional apps, alway
 - **Learning:** Next.js & Node.js (leveling up 🚀)
 
 ---
+🌟 Featured Project
 
-## 🌟 Featured Project
-
-### [Blessedheands](https://github.com/Noshi26/Blessedheands)
+ [Blessedheands](https://github.com/Noshi26/Blessedheands)
 My favorite project – check it out and let me know what you think!
 
 ---
 
-## 🌱 About Me
+🌱 About Me
 
 - 🎓 Currently a student, curious and always learning
 - ✨ Love combining design and code for awesome user experiences
 - 💡 Open to collaboration and new ideas
 
 ---
-
-## 📫 Let's Connect!
+ 📫 Let's Connect!
 
 - [GitHub](https://github.com/Noshi26)
 
