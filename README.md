@@ -1,36 +1,58 @@
-Hi there, I'm Noshi26! 👋
+# Hi there 👋, I'm Noshi!
 
-Welcome to my GitHub profile!  
-I'm a **student** passionate about building beautiful and functional apps, always learning and exploring new technologies.
-
----
-
-🚀 Skills & Tools
-
-- **Flutter** (app development is my jam!)
-- **Figma** (designing pixel-perfect UI/UX)
-- **HTML, CSS, JS** (web wizardry)
-- **Learning:** Next.js & Node.js (leveling up 🚀)
-
----
-🌟 Featured Project
-
- [Blessedheands](https://github.com/Noshi26/Blessedheands)
-My favorite project – check it out and let me know what you think!
+🎓 CS Student at IIUC  
+💻 Flutter App Developer | ⚙️ Backend (Node.js + SQL)  
+📖 Researcher in AI/ML | 🚀 Passionate about building impactful tech  
 
 ---
 
-🌱 About Me
+## 🛠️ Tech Stack
 
-- 🎓 Currently a student, curious and always learning
-- ✨ Love combining design and code for awesome user experiences
-- 💡 Open to collaboration and new ideas
+**Frontend & Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Other Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
- 📫 Let's Connect!
 
-- [GitHub](https://github.com/Noshi26)
+## 🚀 Featured Projects
+
+- [**GreenCart**](https://github.com/Noshi26/GreenCart) 🛒 – Smart Grocery Assistant (Meal planning, shopping list, pantry management)  
+- [**IIUC Nexus**](https://github.com/Noshi26/IIUC-Nexus) 🎓 – Student Community App (Flutter + Node.js, animated UI, Appwrite backend)  
+- [**Beat Cancer**](https://github.com/Noshi26/Beat-Cancer) 🩺 – AI-powered Healthcare Platform for cancer care in Bangladesh  
 
 ---
 
-Thanks for visiting! Have a fantastic day!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noshi26&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noshi26&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🌱 Current Focus
+
+- 🔭 Building **Flutter apps with Node.js backends**  
+- 📖 Writing a **research paper in AI/ML for space exploration & interplanetary connectivity**  
+- 🌍 Exploring how **AI can solve real-world problems in Bangladesh**  
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-linkedin-link)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+
+---
+✨ _“Code for impact, research for the future.”_
