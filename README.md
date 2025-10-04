@@ -38,6 +38,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Noshi26&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noshi26&theme=radical" height="160"/>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Noshi26&theme=radical)
+
 </p>
 
 ---
