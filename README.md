@@ -27,13 +27,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🛒 [**GreenCart**](https://github.com/Noshi26/GreenCart) — *Smart Grocery Assistant* for meal planning, shopping lists, and pantry management.  
-- 🎓 [**IIUC Nexus**](https://github.com/Noshi26/IIUC-Nexus) — *University Community Platform* built with Flutter, Node.js, and Appwrite backend.  
-
----
-
 ## 📊 GitHub Stats (This Year)
 
 <p align="center">
