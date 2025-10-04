@@ -2,7 +2,8 @@
 
 🎓 **CSE Student at IIUC**  
 💻 **Flutter Developer** | ⚙️ **Backend (Node.js + SQL)**  
-📖 **AI/ML Researcher** | 🚀 Passionate about building impactful tech  
+📖 **AI/ML Researcher** | 🔒 **Cybersecurity Enthusiast**  
+🚀 Passionate about building secure, impactful, and intelligent technology  
 
 ---
 
@@ -46,6 +47,7 @@
 
 - 🔭 Building modern **Flutter apps with Node.js backends**  
 - 🧠 Researching **AI/ML for space exploration & interplanetary connectivity**  
+- 🔒 Learning **Cybersecurity** to design safer systems  
 - 🌍 Exploring how **AI can solve real-world problems in Bangladesh**  
 
 ---
@@ -57,4 +59,4 @@
 
 ---
 
-✨ *"Code for impact, research for the future."*
+✨ *"Code for impact, research for the future — securely."*
