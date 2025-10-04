@@ -43,6 +43,14 @@
 
 ---
 
+## 💬 Languages I Work With Most
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noshi26&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
 ## 🌱 Current Focus
 
 - 🔭 Building modern **Flutter apps with Node.js backends**  
