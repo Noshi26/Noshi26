@@ -37,10 +37,7 @@
 ## 📊 GitHub Stats (This Year)
 
 <p align="center">
-  <!-- Commits, PRs, issues for this year only -->
   <img src="https://github-readme-stats.vercel.app/api?username=Noshi26&show_icons=true&theme=radical&since=2025-01-01" height="160" />
-  
-  <!-- Streak stats for this year -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noshi26&theme=radical&since=2025-01-01" height="160" />
 </p>
 
@@ -51,21 +48,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noshi26&layout=compact&theme=radical&since=2025-01-01" height="160" />
 </p>
-
----
-
-## 🌟 Professional Contributions
-
-- 💻 **IEEE Computer Society Bangladesh Chapter** – Executive Committee Member (2025)  
-  - Managed structured data, images, and member directories  
-  - Contributed to event organization and website management  
-
-- 🎓 **WIE Committee 2025** – Team Member  
-  - Handled team member data and communications for technical events  
-
-- 📊 **AI Research & Projects**  
-  - Beat Cancer – AI-powered healthcare platform (Bangladesh)  
-  - IIUC Nexus – Student community platform with Flutter + Node.js backend  
 
 ---
 
