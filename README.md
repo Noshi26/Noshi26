@@ -54,14 +54,6 @@
 
 ---
 
-## 🧪 Featured Projects  
-
-- 🌿 [**GreenCart**](https://github.com/Noshi26/GreenCart) – Smart grocery shopping assistant for eco-friendly living  
-- 🧩 [**IIUC Nexus**](https://github.com/Noshi26/IIUC-Nexus) – Student community platform for innovation & collaboration  
-- 🩺 [**Beat Cancer**](https://github.com/Noshi26/Beat-Cancer) – AI-powered personalized cancer care system  
-- 🌍 [**Geopolitical Forecasting Project**](https://github.com/Noshi26/Geopolitical-Forecasting-Project) – Predicting international events with data-driven models  
-
----
 
 ## 📫 Connect with Me  
 
