@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nowshin!
+# 👋 Hi, I'm Nowshin!  
 
 🎓 **CSE Student at IIUC**  
 💻 **Flutter Developer** | ⚙️ **Backend (Node.js + SQL)**  
@@ -7,44 +7,44 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-**💡 Frontend & Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**💡 Frontend & Mobile**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
-**🧩 Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FF0077?style=for-the-badge&logo=appwrite&logoColor=white)
+**🧩 Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)  
+![Appwrite](https://img.shields.io/badge/Appwrite-FF0077?style=for-the-badge&logo=appwrite&logoColor=white)  
 
-**⚙️ Other Tools**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**⚙️ Other Tools**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats (This Year)
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noshi26&show_icons=true&theme=radical&since=2025-01-01" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noshi26&theme=radical&since=2025-01-01" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noshi26&show_icons=true&theme=radical&include_all_commits=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noshi26&theme=radical" height="160" />
 </p>
 
 ---
 
-## 💬 Languages I Work With Most (This Year)
+## 💬 Languages I Work With  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noshi26&layout=compact&theme=radical&since=2025-01-01" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noshi26&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
 
-## 🌱 Current Focus
+## 🌱 Current Focus  
 
 - 🔭 Building modern **Flutter apps with Node.js backends**  
 - 🧠 Researching **AI/ML for space exploration & interplanetary connectivity**  
@@ -53,10 +53,10 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nowshin-binta-mosharaf-354b1a287/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nowshinmosharaf35@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nowshin-binta-mosharaf-354b1a287/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nowshinmosharaf35@gmail.com)  
 
 ---
 
