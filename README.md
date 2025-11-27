@@ -67,9 +67,15 @@ I'm a passionate developer specializing in **Flutter mobile development**, **bac
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noshi26&theme=radical&hide_border=true&background=0d1117&stroke=FF79C6&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6" alt="GitHub Streak"/>
 </div>
 
+---
+
+### 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Noshi26&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Noshi26&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
 </div>
+
+---
 
 <details>
 <summary>📈 More Stats</summary>
