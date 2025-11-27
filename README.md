@@ -3,13 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Nowshin%20Binta%20Mosharaf&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20AI%20Researcher%20|%20Security%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Noshi26?style=for-the-badge&logo=github&logoColor=white&labelColor=282A36&color=FF79C6" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=Noshi26&style=for-the-badge&color=FF79C6&labelColor=282A36" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/Noshi26?style=for-the-badge&logo=github&logoColor=white&labelColor=282A36&color=FF79C6" alt="Stars"/>
-</p>
-
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Building+Secure+%26+Intelligent+Solutions;Flutter+%E2%9D%A4%EF%B8%8F+Node.js+%E2%9D%A4%EF%B8%8F+AI%2FML;Turning+Coffee+into+Code+%E2%98%95%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -21,30 +14,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
 
-**📍 Location:** Chittagong, Bangladesh  
+**📍 Location:** Chittagong, Bangladesh 🇧🇩  
 **🎓 Education:** CSE Student @ IIUC  
 
-**🎯 Current Focus:**
-- 📱 AI-Powered Mobile Applications
-- 🔐 Cybersecurity & Security Architecture
-- ⚙️ Backend Development & APIs
+I'm a passionate developer specializing in **Flutter mobile development**, **backend engineering**, and **AI/ML research**. Currently diving deep into cybersecurity practices while building cross-platform applications. I focus on creating secure, intelligent solutions that solve real-world problems. Always learning, always growing — from mastering machine learning algorithms to contributing to open-source projects. My goal is to make technology more accessible and impactful.
 
-> 💡 **Motto:** *"Code for impact, research for the future — securely."* 🔒✨
-
-**🎯 What I Do:**
-- 💼 Build cross-platform mobile applications with **Flutter**
-- 🛡️ Focus on **security-first** development practices
-- 🤖 Research and implement **AI/ML** solutions
-- 🌐 Create robust **backend systems** with Node.js
-- 📚 Continuously learning and exploring new technologies
-
-**🌟 Current Goals:**
-- Master advanced machine learning algorithms
-- Contribute to open-source security projects
-- Build AI-powered solutions for real-world problems
-
-**⚡ Fun Fact:** I'm fluent in 3 languages: English, Bengali, and Stack Overflow. My debugging superpower? Explaining the code to my cat until it magically works. Plot twist: I don't own a cat. 🐱💻✨
-
+**⚡ Fun Fact:** Ctrl+Z is my best friend. I speak fluent Google Translate and Stack Overflow. My code works, I just don't know why. 🤷‍♀️💻
 <br clear="right"/>
 
 ---
